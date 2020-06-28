@@ -1,5 +1,3 @@
-jenkins-client project
-
 This project was developed to manage the jenkins server from cli because the speed which cli provides.
 There are two main programs in this project which are JC and JCR.
 
