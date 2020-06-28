@@ -12,3 +12,16 @@ JCR Version 0.3
 
 This program is a cli program which handles the parsing operation of  the server.conf and job.conf files . After processing these files
 JCR will create a xml configuration file for the job.
+
+
+Download 
+===================
+
+Simply download the JC-Package.zip file.
+
+
+Installation
+===================
+
+Unpack the JC-Package.zip and run the configure.exe program.
+
